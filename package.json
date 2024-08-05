@@ -2,7 +2,7 @@
   "name": "react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ahmed-gomaa321.github.io/first-react",
+  "homepage": "https://ahmed-gomaa321.github.io/react-routes",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
